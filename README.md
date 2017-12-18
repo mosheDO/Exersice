@@ -1,2 +1,2 @@
 # Exersice
-My personal exersice on programing
+My personal exersice on programming
